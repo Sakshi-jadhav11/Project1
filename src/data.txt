@@ -1,0 +1,18 @@
+ABOUT
+
+about__description
+Hi, I'm a frontend developer, passionate about creating and developing web interfaces. I have many years of experience in this area of work, with multiple quality projects.
+
+SERVICES
+
+services__description
+This service that I offer is of high quality and above all experience that I have in the labor field for many years.
+
+PROJECT IN MIND
+
+project__description
+If you have a project that you want to carry out, do not hesitate and tell me what it is, and what services I can offer you, contact me directly here.
+
+FOOTER
+footer__description
+I am Harris and this is my personal website, consult me here.
