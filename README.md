@@ -30,7 +30,7 @@ Azure Services
 1.Docker
 2.Virtual Machine
 3.Container instances
-4.Container registeries
+4.Container registeries.
 
 
  
