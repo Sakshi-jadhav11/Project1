@@ -27,10 +27,13 @@ Frontend : HTML,CSS,Javascript.
 Cloud : Azure Services
 
 Azure Services
-1.Docker
-2.Virtual Machine
-3.Container instances
-4.Container registeries.
+1)Docker: I containerized my website using Docker to encapsulate the website's components, ensuring consistency across different environments. Docker simplifies the deployment process and minimizes potential conflicts by packaging the application and its dependencies into a standardized unit.
+
+2)Azure Container Registry (ACR): To store and manage Docker images, I utilized Azure Container Registry. ACR provides a secure and scalable solution for storing container images, enabling seamless integration with Azure services.
+
+3)Azure Virtual Machines: I utilized Azure VMs to host and run my portfolio website. Azure VMs provide a scalable and customizable infrastructure solution, allowing me to configure and manage virtual machines based on the specific needs of my application.
+
+4)Azure Cognitive Services - Computer Vision: I implemented the Computer Vision service from Azure Cognitive Services to add powerful image analysis capabilities to my portfolio website. This service uses state-of-the-art machine learning models to analyze and interpret visual content in images.
 
 
  
