@@ -35,6 +35,8 @@ Azure Services
 
 3)Azure Virtual Machines: I utilized Azure VMs to host and run my portfolio website. Azure VMs provide a scalable and customizable infrastructure solution, allowing me to configure and manage virtual machines based on the specific needs of my application.
 
+4)Azure Cognitive Services - Computer Vision: I implemented the Computer Vision service from Azure Cognitive Services to add powerful image analysis capabilities to my portfolio website. This service uses state-of-the-art machine learning models to analyze and interpret visual content in images.
+
 * ScreenShot
   1) Home Page:
  ![home](https://github.com/Sakshi-jadhav11/Project1/assets/147472527/631415ae-ff30-45da-8ce1-d982ff2dcb08)
@@ -67,7 +69,7 @@ Azure ScreenShot
   
 
 
-4)Azure Cognitive Services - Computer Vision: I implemented the Computer Vision service from Azure Cognitive Services to add powerful image analysis capabilities to my portfolio website. This service uses state-of-the-art machine learning models to analyze and interpret visual content in images.
+
 
 
  
